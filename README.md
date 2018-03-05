@@ -1,0 +1,2 @@
+# kTheme
+Wordpress theme
